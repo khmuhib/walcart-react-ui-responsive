@@ -1,0 +1,37 @@
+/* Popular Section Start */
+.popular_section_main {
+  background-color: #f5f5f5;
+}
+
+.popular_section_mid {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.popular_section_card {
+  background-color: white;
+  display: flex;
+  margin: 10px 13px;
+  padding: 15px 0px;
+  width: 22%;
+  float: left;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+}
+
+.popular_section_card img {
+  height: 40px;
+  width: 41px;
+  margin-left: 20px;
+}
+
+.popular_section_card span {
+  margin: 0px 10px;
+  margin-top: 10px;
+}
+
+.popular_section_mid h3 {
+  padding: 20px 10px;
+}
+/* Popular Section End */
